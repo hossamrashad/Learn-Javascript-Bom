@@ -1,5 +1,5 @@
 body {
-    text-align: center;
     box-sizing: border-box;
-    text-transform: capitalize;
+    text-transform: capitalize !important;
+    min-height: 4000px;
 }
