@@ -4,3 +4,8 @@ body {
     min-height: 4000px;
     font-family: cairo, Alegreya;
 }
+
+/* طرية كتابة الكود فى الخلفية باى الوان مدرجة */
+.back-l-g {
+    background: linear-gradient(147deg, rgb(243, 245, 95), rgb(36, 126, 209));
+}
